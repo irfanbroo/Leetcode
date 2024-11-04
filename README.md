@@ -1,4 +1,4 @@
-# Leetcode
+
 # Cracking the Code: My LeetCode Solutions
 
 Welcome to my LeetCode playground! This repository is where I tackle coding challenges, experiment with algorithms, and push my problem-solving skills to the limit.  
@@ -17,7 +17,7 @@ Think of it as a coding dojo where I sharpen my tools and share my techniques wi
 * **Arrays & Strings:**  Mastering the fundamentals. I will be doing problems related to recursion and backtracking, algorithms such as Flyods cycle detetction algorithm etc.
 * **Linked Lists:**  Navigating the chains 
 * **Trees & Graphs:**  Branching out and connecting the dots 
-* **Dynamic Programming:**  Breaking down problems and conquering them ([explore](/Dynamic_Programming))
+* **Dynamic Programming:**  Breaking down problems and conquering them
 * **And More!**  Stay tuned as I continue to expand my LeetCode repertoire.
 
 ## Join the Coding Adventure
