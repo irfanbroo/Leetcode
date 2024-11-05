@@ -24,4 +24,42 @@ Think of it as a coding dojo where I sharpen my tools and share my techniques wi
 
 i have currently solved more than 30+ problems and trust me, it gets easier as we move ahead.
 
+# My LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems in [Your Programming Language].
+
+## Table of Contents
+
+| # | Title | Difficulty | Solution |
+|---|---|---|---|
+| 26 | Two Sum | Easy | [two_sum.cpp](./two_sum.cpp) |
+| 2 | Add Two Numbers | Medium | [add_two_numbers.cpp](./add_two_numbers.cpp) |
+| ... | ... | ... | ... | 
+
+## Contributing
+
+Feel free to open issues or pull requests if you have any suggestions or improvements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Connect with me:** [https://leetcode.com/u/wEznEQOSvA/] 
