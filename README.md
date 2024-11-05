@@ -32,7 +32,7 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
-| 26 | Two Sum | Easy | [two_sum.cpp](./two_sum.cpp) |
+| 26 | Two Sum | Easy | [https://github.com/irfanbroo/Leetcode/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.py](./two_sum.cpp) |
 | 2 | Add Two Numbers | Medium | [add_two_numbers.cpp](./add_two_numbers.cpp) |
 | ... | ... | ... | ... | 
 
