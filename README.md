@@ -32,7 +32,7 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
-| 26 | Two Sum | Easy | [Remove-Duplicates-from-Sorted-Array.py](./Remove-Duplicates-from-Sorted-Array.py)|
+| 26 | Remove Duplicates from Sorted Array | Easy | [Remove-Duplicates-from-Sorted-Array.py](./Remove-Duplicates-from-Sorted-Array.py)|
 | 169 | Majority Elements | Easy | [Majority_Element.py](./Majority_Element.py) |
 | 162 | Find Peak Element | Medium | [Find_peak_element.py](./Find_peak_element.py) | 
 | 26 | Remove Duplicates from Sorted Array | Easy | [Remove_duplicates_from_sorted_array.py](./Remove_duplicates_from_sorted_array.py) |
