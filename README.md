@@ -37,7 +37,7 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 | 162 | Find Peak Element | Medium | [Find_peak_element.py](./Find_peak_element.py) | 
 | 217 | Contains Duplicate | Easy | [Contains_duplicate.py](./Contains_duplicate.py) |
 | 852 |  Peak Index in a Mountain Array |  Medium | [Peak_Index_in_a_moutain_array.py](./Peak_Index_in_a_moutain_array.py) | 
-| 189 | Contains Duplicate | Easy | [Contains_duplicate.py](./Contains_duplicate.py) |
+| 189 | Contains Duplicate | Medium | [Contains_duplicate.py](./Contains_duplicate.py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
