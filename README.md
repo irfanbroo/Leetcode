@@ -38,7 +38,7 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 | 217 | Contains Duplicate | Easy | [Contains_duplicate.py](./Contains_duplicate.py) |
 | 852 |  Peak Index in a Mountain Array |  Medium | [Peak_Index_in_a_moutain_array.py](./Peak_Index_in_a_moutain_array.py) | 
 | 189 | Rotate Array  | Medium | [Rotate_Array.py](./Rotate_Array.py) |
-
+| 74  |    | Medium | [Rotate_Array.py](./Rotate_Array.py) |
 
 ## Contributing
 
