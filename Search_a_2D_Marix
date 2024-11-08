@@ -1,0 +1,17 @@
+class Solution:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        m=len(matrix)
+        n=len(matrix[0])
+        low, high = 0, (m*n)-1
+        while low<=high:
+            mid = low + (high-low)//2
+            r_idx = mid//n
+            c_idx = mid%n
+            mid_element = matrix[r_idx][c_idx]
+            if mid_element == target:
+                return True
+            elif mid_element<target:
+                low = mid+1
+            else:
+                high = mid-1
+        return False
