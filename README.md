@@ -39,7 +39,7 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 | 852 |  Peak Index in a Mountain Array |  Medium | [Peak_Index_in_a_moutain_array.py](./Peak_Index_in_a_moutain_array.py) | 
 | 189 | Rotate Array  | Medium | [Rotate_Array.py](./Rotate_Array.py) |
 | 74  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
-| 74  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
+| 50  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
