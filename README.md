@@ -40,6 +40,8 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 | 189 | Rotate Array  | Medium | [Rotate_Array.py](./Rotate_Array.py) |
 | 74  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
 | 50  |  Pow (x,n)  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
+| 50  |  Pow (x,n)  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
+
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
