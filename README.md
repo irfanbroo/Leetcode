@@ -39,7 +39,7 @@ This repository contains my solutions to LeetCode problems in [Your Programming 
 | 852 |  Peak Index in a Mountain Array |  Medium | [Peak_Index_in_a_moutain_array.py](./Peak_Index_in_a_moutain_array.py) | 
 | 189 | Rotate Array  | Medium | [Rotate_Array.py](./Rotate_Array.py) |
 | 74  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
-| 50  |  Pow (x,n)  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
+| 50  |  Pow (x,n)  | Medium | [Pow(x,n).py](./Pow(x,n).py) |
 | 257  |  Find the Duplicate Number  | Medium | [Find_the_Duplicate_Number.py](./Find_the_Duplicate_Number.py) |
 
 ## Contributing
