@@ -26,7 +26,7 @@ i have currently solved more than 30+ problems and trust me, it gets easier as w
 
 # My LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems in [Your Programming Language].
+This repository contains my solutions to LeetCode problems in python3 as well as Java.
 
 ## Table of Contents
 
