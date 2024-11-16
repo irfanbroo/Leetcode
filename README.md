@@ -41,7 +41,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 74  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
 | 50  |  Pow (x,n)  | Medium | [Pow(x,n).py](./Pow(x,n).py) |
 | 257  |  Find the Duplicate Number  | Medium | [Find_the_Duplicate_Number.py](./Find_the_Duplicate_Number.py) |
-
+| 50  |  Pow (x,n)  | Medium | [Pow(x,n).py](./Pow(x,n).py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
