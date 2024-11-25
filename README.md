@@ -42,6 +42,8 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 50  |  Pow (x,n)  | Medium | [Pow(x,n).py](./Pow(x,n).py) |
 | 257  |  Find the Duplicate Number  | Medium | [Find_the_Duplicate_Number.py](./Find_the_Duplicate_Number.py) |
 | 33  |  Search in a Rotated Sorted Array  | Medium | [Search_in_a_Rotated_Sorted_Array.py](./Search_in_a_Rotated_Sorted_Array.py) |
+| 162 | Find Peak Element | Medium | [Find_peak_element.py](./Find_peak_element.py) | 
+
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
