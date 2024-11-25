@@ -42,7 +42,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 50  |  Pow (x,n)  | Medium | [Pow(x,n).py](./Pow(x,n).py) |
 | 257  |  Find the Duplicate Number  | Medium | [Find_the_Duplicate_Number.py](./Find_the_Duplicate_Number.py) |
 | 33  |  Search in a Rotated Sorted Array  | Medium | [Search_in_a_Rotated_Sorted_Array.py](./Search_in_a_Rotated_Sorted_Array.py) |
-| 238 |  Product of Array Except Self  | Medium | [Find_peak_element.py](./Find_peak_element.py) | 
+| 238 |  Product of Array Except Self  | Medium | Product_of_Array_Except_Self.java](./Product_of_Array_Except_Self.java) | 
 
 ## Contributing
 
