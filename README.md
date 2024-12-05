@@ -44,7 +44,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 33  |  Search in a Rotated Sorted Array  | Medium | [Search_in_a_Rotated_Sorted_Array.py](./Search_in_a_Rotated_Sorted_Array.py) |
 | 238 |  Product of Array Except Self  | Medium | [Product_of_Array_Except_Self.java](./Product_of_Array_Except_Self.java) | 
 | 709 |  To Lower Case  | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
-| 121 |  Best time to | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
+| 121 |  Best time to buy and sell | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
