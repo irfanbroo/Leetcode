@@ -45,6 +45,8 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 238 |  Product of Array Except Self  | Medium | [Product_of_Array_Except_Self.java](./Product_of_Array_Except_Self.java) | 
 | 709 |  To Lower Case  | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
 | 121 |  Best time to buy and sell stocks | Easy | [Best_time_to_buy_and_sell_stocks.py](./Best_time_to_buy_and_sell_stocks.py) | 
+| 709 |  To Lower Case  | Easy | [To_Lower_Case.py](./To_Lower_Case.py) |
+
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
