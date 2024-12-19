@@ -47,7 +47,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 121 |  Best time to buy and sell stocks | Easy | [Best_time_to_buy_and_sell_stocks.py](./Best_time_to_buy_and_sell_stocks.py) | 
 | 258 |  Add Digits  | Easy | [Add_Digits.py](./Add_Digits.py) |
 | 58 |  Length of Last Word  | Easy | [Length_of_last_word.py](./Length_of_last_word.py) |
-| 58 |  FizzBuzz  | Easy | [Length_of_last_word.py](./Length_of_last_word.py) |
+| 58 |  FizzBuzz  | Easy | [Fizz_Buzz.py](./Length_of_last_word.py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
