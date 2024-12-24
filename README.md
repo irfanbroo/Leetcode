@@ -50,6 +50,8 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 58 |  FizzBuzz  | Easy | [Fizz_Buzz.py](./Fizz_Buzz.py) |
 | 58 |  Longest Common Prefix  | Easy | [Longest_common_prefix.py](./Longest_common_prefix.py) |
 | 136 |  Single Number | Easy | [Single_number.py](./Single_number.py) |
+| 136 |  Single Number | Easy | [Single_number.py](./Single_number.py) |
+
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
