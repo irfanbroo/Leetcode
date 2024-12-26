@@ -51,7 +51,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 58 |  Longest Common Prefix  | Easy | [Longest_common_prefix.py](./Longest_common_prefix.py) |
 | 136 |  Single Number | Easy | [Single_number.py](./Single_number.py) |
 | 344 |  Reverse String | Easy | [Reverse_String.py](./Reverse_String.py) |
-| 3289 |  Reverse String | Easy | [Reverse_String.py](./Reverse_String.py) |
+| 3289 |  The two sneaky Numbers of Digitville | Easy | [Reverse_String.py](./Reverse_String.py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
