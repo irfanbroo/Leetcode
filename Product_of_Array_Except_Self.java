@@ -20,3 +20,23 @@ class Solution {
         return nums;
     }
 }
+
+
+
+
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        larr=[1] * n 
+        rarr=[1] * n
+        arr=[0] * n
+        
+        larr[0] = 1
+        rarr[n-1] = 1
+        for i in range(1,n):
+            larr[i] = larr[i-1] * nums[i-1]
+        for j in range(n-2,-1,-1):
+            rarr[j] = rarr[j+1] * nums[j+1]
+        for i in range(n):
+            arr[i] = larr[i] * rarr[i]
+        return arr 
