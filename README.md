@@ -53,7 +53,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 344 |  Reverse String | Easy | [Reverse_String.py](./Reverse_String.py) |
 | 3289 |  The two sneaky Numbers of Digitville | Easy | [The_two_Sneaky_Numbers_of_Digitville.py](./The_two_Sneaky_Numbers_of_Digitville.py) |
 | 344 |  Remove Element | Easy | [Remove_Element.py](./Remove_Element.py) |
-| 1 |  Two Sum | Easy | [Remove_Element.py](./Remove_Element.py) |
+| 1 |  Two Sum | Easy | [Two_Sum.py](./Two_Sum.py) |
 
 ## Contributing
 
