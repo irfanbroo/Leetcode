@@ -46,7 +46,6 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 709 |  To Lower Case  | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
 | 121 |  Best time to buy and sell stocks | Easy | [Best_time_to_buy_and_sell_stocks.py](./Best_time_to_buy_and_sell_stocks.py) | 
 | 258 |  Add Digits  | Easy | [Add_Digits.py](./Add_Digits.py) |
-| 344 |  Find the Duplicate Number | Easy | [Remove_Element.py](./Remove_Element.py) |
 | 58 |  Length of Last Word  | Easy | [Length_of_last_word.py](./Length_of_last_word.py) |
 | 58 |  FizzBuzz  | Easy | [Fizz_Buzz.py](./Fizz_Buzz.py) |
 | 58 |  Longest Common Prefix  | Easy | [Longest_common_prefix.py](./Longest_common_prefix.py) |
