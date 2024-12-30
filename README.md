@@ -40,7 +40,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 189 | Rotate Array  | Medium | [Rotate_Array.py](./Rotate_Array.py) |
 | 74  |  Search a 2D Matrix  | Medium | [Search_a_2D_Marix](./Search_a_2D_Marix) |
 | 50  |  Pow (x,n)  | Medium | [Pow(x,n).py](./Pow(x,n).py) |
-| 257  |  Find the Duplicate Number  | Medium | [Find_the_Duplicate_Number.py](./Find_the_Duplicate_Number.py) |
+| 287  |  Find the Duplicate Number  | Medium | [Find_the_Duplicate_Number.py](./Find_the_Duplicate_Number.py) |
 | 33  |  Search in a Rotated Sorted Array  | Medium | [Search_in_a_Rotated_Sorted_Array.py](./Search_in_a_Rotated_Sorted_Array.py) |
 | 238 |  Product of Array Except Self  | Medium | [Product_of_Array_Except_Self.java](./Product_of_Array_Except_Self.java) | 
 | 709 |  To Lower Case  | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
