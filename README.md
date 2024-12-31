@@ -54,7 +54,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 3289 |  The two sneaky Numbers of Digitville | Easy | [The_two_Sneaky_Numbers_of_Digitville.py](./The_two_Sneaky_Numbers_of_Digitville.py) |
 | 344 |  Remove Element | Easy | [Remove_Element.py](./Remove_Element.py) |
 | 1 |  Two Sum | Easy | [Two_Sum.py](./Two_Sum.py) |
-| 9 |  Palindrome Number  | Easy | [Palindrome_Number.py](./Two_Sum.py) |
+| 9 |  Palindrome Number  | Easy | [Palindrome_Number.py](./Palindrome_Number.py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
