@@ -45,7 +45,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 238 |  Product of Array Except Self  | Medium | [Product_of_Array_Except_Self.java](./Product_of_Array_Except_Self.java) | 
 | 709 |  To Lower Case  | Easy | [To_Lower_Case.py](./To_Lower_Case.py) | 
 | 121 |  Best time to buy and sell stocks | Easy | [Best_time_to_buy_and_sell_stocks.py](./Best_time_to_buy_and_sell_stocks.py) | 
-| 2559 |  Count Vowel String in Ranges | Easy | [Missing_Number.py](./Missing_Number.py) |
+| 2559 |  Count Vowel String in Ranges | Medium | [Missing_Number.py](./Missing_Number.py) |
 | 258 |  Add Digits  | Easy | [Add_Digits.py](./Add_Digits.py) |
 | 58 |  Length of Last Word  | Easy | [Length_of_last_word.py](./Length_of_last_word.py) |
 | 58 |  FizzBuzz  | Easy | [Fizz_Buzz.py](./Fizz_Buzz.py) |
