@@ -50,7 +50,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 58 |  Length of Last Word  | Easy | [Length_of_last_word.py](./Length_of_last_word.py) |
 | 58 |  FizzBuzz  | Easy | [Fizz_Buzz.py](./Fizz_Buzz.py) |
 | 58 |  Longest Common Prefix  | Easy | [Longest_common_prefix.py](./Longest_common_prefix.py) |
-| 268 |  Number of Ways to split Array | Medium | [Number_of_Ways_tp_Split-Array.py](./Number_of_Ways_tp_Split-Array.py) |
+| 2270 |  Number of Ways to split Array | Medium | [Number_of_Ways_tp_Split-Array.py](./Number_of_Ways_tp_Split-Array.py) |
 | 136 |  Single Number | Easy | [Single_number.py](./Single_number.py) |
 | 344 |  Reverse String | Easy | [Reverse_String.py](./Reverse_String.py) |
 | 3289 |  The two sneaky Numbers of Digitville | Easy | [The_two_Sneaky_Numbers_of_Digitville.py](./The_two_Sneaky_Numbers_of_Digitville.py) |
