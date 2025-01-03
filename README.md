@@ -57,7 +57,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 1 |  Two Sum | Easy | [Two_Sum.py](./Two_Sum.py) |
 | 9 |  Palindrome Number  | Easy | [Palindrome_Number.py](./Palindrome_Number.py) |
 | 268 |  Missing Number  | Easy | [Missing_Number.py](./Missing_Number.py) |
-| 268 |  Number of Ways to split Array | Medium | [Missing_Number.py](./Missing_Number.py) |
+| 268 |  Number of Ways to split Array | Medium | [Number_of_Ways_tp_Split-Array.py](./Number_of_Ways_tp_Split-Array.py) |
 
 ## Contributing
 
