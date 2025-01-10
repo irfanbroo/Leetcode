@@ -54,11 +54,12 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 136 |  Single Number | Easy | [Single_number.py](./Single_number.py) |
 | 344 |  Reverse String | Easy | [Reverse_String.py](./Reverse_String.py) |
 | 3289 |  The two sneaky Numbers of Digitville | Easy | [The_two_Sneaky_Numbers_of_Digitville.py](./The_two_Sneaky_Numbers_of_Digitville.py) |
+| 916 |  Words Subsets  | Medium | [Words_Subsets.py](./Words_Subsets.py) |
 | 344 |  Remove Element | Easy | [Remove_Element.py](./Remove_Element.py) |
 | 1 |  Two Sum | Easy | [Two_Sum.py](./Two_Sum.py) |
 | 9 |  Palindrome Number  | Easy | [Palindrome_Number.py](./Palindrome_Number.py) |
 | 268 |  Missing Number  | Easy | [Missing_Number.py](./Missing_Number.py) |
-| 916 |  Words Subsets  | Medium | [Words_Subsets.py](./Words_Subsets.py) |
+
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
