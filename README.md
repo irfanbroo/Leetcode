@@ -1,4 +1,4 @@
-#Here is my leetcode  [https://leetcode.com/u/wEznEQOSvA/] 
+**Here is my leetcode**  [https://leetcode.com/u/wEznEQOSvA/] 
 
 
 # Cracking the Code: My LeetCode Solutions
@@ -24,7 +24,7 @@ Think of it as a coding dojo where I sharpen my tools and share my techniques wi
 
 ## Join the Coding Adventure
 
-i have currently solved more than 30+ problems and trust me, it gets easier as we move ahead.
+i have currently solved more than 50+ problems and trust me, it gets easier as we move ahead.
 
 # My LeetCode Solutions
 
