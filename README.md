@@ -1,9 +1,7 @@
 
 # Cracking the Code: My LeetCode Solutions
 
-Welcome to my LeetCode playground! This repository is where I tackle coding challenges, experiment with algorithms, and push my problem-solving skills to the limit.  
-I will first go through the brute force approach and then dive into further optimising the code.
-Think of it as a coding dojo where I sharpen my tools and share my techniques with fellow warriors.
+Dumping Leetcode solutions here, as instructed by Priya (thanks for the wonderful lessons, you really did gave me a headstart and I cant thank you enough)
 
 ## What You'll Find Inside
 
