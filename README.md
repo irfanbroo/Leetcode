@@ -57,7 +57,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 1 |  Two Sum | Easy | [Two_Sum.py](./Two_Sum.py) |
 | 9 |  Palindrome Number  | Easy | [Palindrome_Number.py](./Palindrome_Number.py) |
 | 268 |  Missing Number  | Easy | [Missing_Number.py](./Missing_Number.py) |
-| 268 |  Missing Number  | Easy | [Missing_Number.py](./Missing_Number.py) |
+| 2185 |  Counting Words with a given prefix  | Easy | [Missing_Number.py](./Missing_Number.py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
