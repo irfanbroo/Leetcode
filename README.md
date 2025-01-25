@@ -58,7 +58,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 9 |  Palindrome Number  | Easy | [Palindrome_Number.py](./Palindrome_Number.py) |
 | 268 |  Missing Number  | Easy | [Missing_Number.py](./Missing_Number.py) |
 | 2185 |  Counting Words with a given prefix  | Easy | [Counting_words_with_a_given_prefix.py](./Counting_words_with_a_given_prefix.py) |
-| 3042 |  Count Prefix and Suffix pairs 1  | Easy | [Counting_words_with_a_given_prefix.py](./Counting_words_with_a_given_prefix.py) |
+| 3042 |  Count Prefix and Suffix pairs 1  | Easy | [Count_prefix_and_suffix_pairs_1](./Count_prefix_and_suffix_pairs_1) |
 
 ## Contributing
 
