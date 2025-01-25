@@ -1,0 +1,34 @@
+class Solution:
+    def is_pref(self,word1,word2):
+        m = len(word1)
+        n = len(word2)
+        if m > n:
+            return False
+        
+        for i in range(m):
+            if word1[i]!=word2[i]:
+                return False
+        return True
+    def is_suff(self,word1,word2):
+        m = len(word1)
+        n = len(word2)
+        if m > n:
+            return False
+        i = m-1
+        j = n-1
+        while i >= 0:
+            if word1[i]!=word2[j]:
+                return False
+            else:
+                i -=1
+                j -=1
+        return True
+    
+    def countPrefixSuffixPairs(self, words: List[str]) -> int:
+        n = len(words)
+        c=0
+        for i in range(n):
+            for j in range(i+1,n):
+                if self.is_pref(words[i],words[j]) and self.is_suff(words[i], words[j]):
+                    c+=1
+        return c
