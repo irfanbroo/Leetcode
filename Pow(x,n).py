@@ -1,3 +1,34 @@
+#Before the solution, if there was no such condition like negative in our testcase, here is the straightforward approach
+
+#func
+
+def poww(a,n):
+
+    if n == 1:
+        return a
+    else:
+        mid = n//2
+        res1 = poww(a,mid)
+        fin = res1 * res1
+    
+    if n%2 == 0:
+        return fin
+    else:
+        return a * fin
+
+
+#driver code
+
+res = poww(2,3)
+print(res)
+
+
+
+
+
+## Main solution of the problem
+
+
 class Solution(object):
     def myPow(self, x, n):
         if n==0:
