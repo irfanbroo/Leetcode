@@ -60,7 +60,7 @@ This repository contains my solutions to LeetCode problems in python3 as well as
 | 2185 |  Counting Words with a given prefix  | Easy | [Counting_words_with_a_given_prefix.py](./Counting_words_with_a_given_prefix.py) |
 | 3042 |  Count Prefix and Suffix pairs 1  | Easy | [Count_prefix_and_suffix_pairs_1](./Count_prefix_and_suffix_pairs_1) |
 | 172 |  Factorial Trailing Zeroes  | Medium | [fact_trailing_zeroes.py](./fact_trailing_zeroes.py) |
-| 977 |  Squares of a Sorted Array  | Easy | [Squares_of_a_Sorted_Array.py](./fact_trailing_zeroes.py) |
+| 977 |  Squares of a Sorted Array  | Easy | [Squares_of_a_Sorted_Array.py](./Squares_of_a_Sorted_Array.py) |
 ## Contributing
 
 Feel free to open issues or pull requests if you have any suggestions or improvements.
